@@ -6,7 +6,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <h1>ETL Pipeline-Dashboard</h1>
       <iframe
         width="960"
         height="720"
